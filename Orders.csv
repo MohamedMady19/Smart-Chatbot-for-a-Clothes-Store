@@ -1,0 +1,12 @@
+,Order_No,Name,Date,Number of Pieces,Pieces,Total Price
+0,#727907,Mohamed Mady,2022-05-17,3,"['red dress', 'blue skirt', 'brown t-shirt']",1320
+1,#976674,Nader,2022-05-17,2,"['white dress', 'blue shirt']",1360
+2,#213086,Nashaat,2022-05-18,1,['red shirt'],880
+3,#775360,أحمد,2022-05-18,1,['blue dress'],780
+4,#040835,Mark,2022-05-19,1,['green short'],620
+5,#824098,John,2022-05-19,2,"['green hat', 'yellow shirt']",1580
+6,#278193,Lisa,2022-05-26,2,"['blue skirt', 'white dress']",900
+7,#481673,Sara,2022-05-26,3,"['black shirt', 'red dress', 'red hat']",1300
+8,#160356,Ali,2022-07-16,1,['red dress'],280
+9,#042546,Mohammed,2022-07-21,1,['red shirt'],880
+10,#829370,mohamed,2022-07-21,1,['red shirt'],880
